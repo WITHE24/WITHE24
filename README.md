@@ -1,18 +1,18 @@
-# 👋 Hola, soy **ENMANUEL** 🚀
-### 🛠️ Software Architect | Fullstack Artisan | UX/UI Enthusiast
+# 👋 Hola, soy **Andrés | ENMANUEL** 🚀
+### 🛠️ Software Architect | Fullstack Artisan | UX/UI Specialist
 
 <img align="right" alt="Andrés Dev GIF" height="220px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-Me especializo en convertir arquitecturas complejas en experiencias de usuario fluidas. Mi fuerte es el desarrollo de sistemas **Omnicanal**, donde centralizo el caos de múltiples plataformas en una sola interfaz potente e intuitiva. 
+Me apasiona transformar arquitecturas complejas en experiencias de usuario intuitivas y potentes. Mi enfoque principal es la **Omnicanalidad**, optimizando flujos de comunicación masivos y unificando ecosistemas de datos en tiempo real.
 
 ---
 
 ## 💎 Mi ADN como Desarrollador
 
-- 🌐 **Arquitecto de Soluciones Omnicanal:** Experto en orquestar comunicaciones en tiempo real mediante **WebSockets** y sistemas de colas, garantizando que cada mensaje llegue a su destino con eficiencia.
-- 🔌 **Estratega de Integraciones ISP:** Poseo un conocimiento profundo en la integración de ecosistemas **ERP/ISP (como Mikrowisp y Krill)**, unificando datos financieros y técnicos bajo una única fuente de verdad.
-- 🎨 **Obsesión por lo Premium:** No diseño interfaces "estándar". Implemento diseños modernos con **Tailwind CSS**, micro-animaciones y estados refinados que elevan la percepción de calidad del software.
-- 🏗️ **Ingeniería Fullstack:** Domino el ciclo completo, desde la gestión de estados complejos en **Next.js/React** con Hooks personalizados, hasta el despliegue optimizado en entornos con **Docker** y **Cloudflare**.
+- 🌐 **Estratega Omnicanal:** Experto en orquestar comunicaciones mediante **WebSockets** y sistemas reactivos, centralizando la atención al cliente en una sola fuente de verdad.
+- 🔌 **Integrador de Ecosistemas:** Conocimiento avanzado en la unificación de **ERPs potentes (Mikrowisp & Krill)**, extrayendo el máximo valor de la información técnica y financiera.
+- 🎨 **UX/UI Obsession:** Fiel creyente de que el software profesional debe ser visualmente increíble. Implemento interfaces con **Tailwind CSS** y micro-interacciones que marcan la diferencia.
+- 🏗️ **Ingeniería Fullstack:** Gestión del ciclo completo de vida del software, desde hooks de estado complejos en **Next.js** hasta despliegues optimizados con **Docker**.
 
 ---
 
@@ -30,30 +30,38 @@ Me especializo en convertir arquitecturas complejas en experiencias de usuario f
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### 📡 Integraciones Especializadas
-![ISP Integration](https://img.shields.io/badge/ISPs-Mikrowisp%20%2B%20Krill-blue?style=for-the-badge&logo=databricks&logoColor=white)
-![API REST](https://img.shields.io/badge/APIs-RESTFul%20Services-green?style=for-the-badge)
+### 📡 Especialidades & Tools
+![ISP Integration](https://img.shields.io/badge/ERPs-Mikrowisp%20%7C%20Krill-blue?style=for-the-badge&logo=databricks&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ---
 
-## 🏆 Logros & Actividad
+## 📈 Impacto & Actividad
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=WITHE24" alt="GitHub Streak" /></a>
+<p align="center">
+  <!-- GitHub Streak Stats (El que te gustó, configurado con tema premium) -->
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=WITHE24&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+  <br/>
+  <!-- GitHub Trophies para complementar visualmente -->
+  <img src="https://github-profile-trophy.vercel.app/?username=WITHE24&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="Trophies" />
+</p>
 
 ---
 
 ## ⚡ En el radar actual
-> 🚧 **En curso:** Escalando la plataforma **Krionix-Omnichannel**, optimizando el rendimiento de listas virtualizadas masivas y mejorando la sincronicidad de estados de mensajes.
+> 🚧 **En curso:** Escalando la plataforma **Krionix-Omnichannel**, optimizando virtualización de listas masivas y flujos de tickets.
 >
-> 📡 **Explorando:** Automatización avanzada de tickets de soporte y análisis predictivo de datos de ERPs.
+> 📡 **Explorando:** Automatización inteligente de respuestas y análisis profundo de datos ISP.
 >
-> 🎯 **Mantra:** "Cualquier programador puede hacer que funcione. Un ingeniero hace que sea escalable, rápido y hermoso."
+> 🎯 **Mantra:** "Un programador escribe código. Un ingeniero construye futuro."
 
 ---
 
 ## 📫 Conecta conmigo
-Hablemos sobre cómo transformar procesos manuales en sistemas automatizados de alto nivel.
+Si buscas elevar el estándar de tus aplicaciones web, ¡hablemos!
 
 <p align="center">
   💙 **"Code with heart, Deploy with brain."**
