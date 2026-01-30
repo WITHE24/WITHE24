@@ -52,7 +52,7 @@ Me apasiona transformar arquitecturas complejas en experiencias de usuario intui
 ---
 
 ## ⚡ En el radar actual
-> 🚧 **En curso:** Escalando la plataforma **Krionix-Omnichannel**, optimizando virtualización de listas masivas y flujos de tickets.
+> 🚧 **En curso:** Escalando la plataforma **NIX360-Omnichannel**, optimizando virtualización de listas masivas y flujos de tickets.
 >
 > 📡 **Explorando:** Automatización inteligente de respuestas y análisis profundo de datos ISP.
 >
@@ -64,5 +64,5 @@ Me apasiona transformar arquitecturas complejas en experiencias de usuario intui
 Si buscas elevar el estándar de tus aplicaciones web, ¡hablemos!
 
 <p align="center">
-  💙 **"Code with heart, Deploy with brain."**
+  💙 **"Code with heart, Deploy with brain.KRIONIXTECH"**
 </p>
