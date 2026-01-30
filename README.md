@@ -10,7 +10,7 @@ Me especializo en convertir arquitecturas complejas en experiencias de usuario f
 ## 💎 Mi ADN como Desarrollador
 
 - 🌐 **Arquitecto de Soluciones Omnicanal:** Experto en orquestar comunicaciones en tiempo real mediante **WebSockets** y sistemas de colas, garantizando que cada mensaje llegue a su destino con eficiencia.
-- 🔌 **Estratega de Integraciones:** Poseo un conocimiento profundo en la integración de ecosistemas **ERP/ISP (como Mikrowisp y Krill)**, unificando datos financieros y técnicos bajo una única fuente de verdad.
+- 🔌 **Estratega de Integraciones ISP:** Poseo un conocimiento profundo en la integración de ecosistemas **ERP/ISP (como Mikrowisp y Krill)**, unificando datos financieros y técnicos bajo una única fuente de verdad.
 - 🎨 **Obsesión por lo Premium:** No diseño interfaces "estándar". Implemento diseños modernos con **Tailwind CSS**, micro-animaciones y estados refinados que elevan la percepción de calidad del software.
 - 🏗️ **Ingeniería Fullstack:** Domino el ciclo completo, desde la gestión de estados complejos en **Next.js/React** con Hooks personalizados, hasta el despliegue optimizado en entornos con **Docker** y **Cloudflare**.
 
@@ -31,25 +31,22 @@ Me especializo en convertir arquitecturas complejas en experiencias de usuario f
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### 📡 Integraciones Especializadas
-![ERP Integration](https://img.shields.io/badge/ERPs-Mikrowisp%20%2B%20Krill-blue?style=for-the-badge&logo=databricks&logoColor=white)
+![ISP Integration](https://img.shields.io/badge/ISPs-Mikrowisp%20%2B%20Krill-blue?style=for-the-badge&logo=databricks&logoColor=white)
 ![API REST](https://img.shields.io/badge/APIs-RESTFul%20Services-green?style=for-the-badge)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ---
 
-## 📈 Impacto & Desarrollo
+## 🏆 Logros & Actividad
 
 <p align="center">
-  <!-- ⚠️ REEMPLAZA 'TU_USUARIO' con tu nombre real de GitHub abajo -->
-  <img src="https://github-readme-stats.vercel.app/api?username=WITHE24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WITHE24&theme=tokyonight&hide_border=true" />
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=WITHE24&theme=tokyonight&hide_border=true"/>
+</p>>
 
 ---
 
 ## ⚡ En el radar actual
-> 🚧 **En curso:** Escalando la plataforma **Krionix**, optimizando el rendimiento de listas virtualizadas masivas y mejorando la sincronicidad de estados de mensajes.
+> 🚧 **En curso:** Escalando la plataforma **Krionix-Omnichannel**, optimizando el rendimiento de listas virtualizadas masivas y mejorando la sincronicidad de estados de mensajes.
 >
 > 📡 **Explorando:** Automatización avanzada de tickets de soporte y análisis predictivo de datos de ERPs.
 >
