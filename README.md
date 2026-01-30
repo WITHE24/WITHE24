@@ -39,9 +39,7 @@ Me especializo en convertir arquitecturas complejas en experiencias de usuario f
 
 ## 🏆 Logros & Actividad
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=WITHE24&theme=tokyonight&hide_border=true" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WITHE24)](https://git.io/streak-stats)
 
 ---
 
