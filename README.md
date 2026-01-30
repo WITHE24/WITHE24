@@ -34,22 +34,5 @@
 
 ---
 
-## 📬 ¡Contáctame!
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/593994839872)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/adres12_3)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enmanuel12vasquez@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/WHlTH344)
-
----
-
-## 📈 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bgstatic&show_icons=true&theme=react&count_private=true&hide_border=true&line_height=24" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&layout=compact&theme=react&hide_border=true" />
-</div>
-
----
 
 <p align="center">Gracias por visitar mi perfil 💙 ¡Nunca dejes de aprender!</p>
