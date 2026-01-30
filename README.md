@@ -44,9 +44,7 @@ Me apasiona transformar arquitecturas complejas en experiencias de usuario intui
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=WITHE24&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
-  <br/>
-  <!-- GitHub Trophies para complementar visualmente -->
-  <img src="https://github-profile-trophy.vercel.app/?username=WITHE24&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="Trophies" />
+  <br/> 
 </p>
 
 ---
