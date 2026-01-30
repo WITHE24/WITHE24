@@ -9,7 +9,7 @@ Me especializo en convertir arquitecturas complejas en experiencias de usuario f
 
 ## 💎 Mi ADN como Desarrollador
 
-- 🌐 **Arquitecto de Soluciones Omnicanal:** Experto en orquestar comunicaciones en tiempo real mediante **WebSockets** y sistemas de colas, garantizando que cada mensaje llegue a su destino sin fricción.
+- 🌐 **Arquitecto de Soluciones Omnicanal:** Experto en orquestar comunicaciones en tiempo real mediante **WebSockets** y sistemas de colas, garantizando que cada mensaje llegue a su destino con eficiencia.
 - 🔌 **Estratega de Integraciones:** Poseo un conocimiento profundo en la integración de ecosistemas **ERP/ISP (como Mikrowisp y Krill)**, unificando datos financieros y técnicos bajo una única fuente de verdad.
 - 🎨 **Obsesión por lo Premium:** No diseño interfaces "estándar". Implemento diseños modernos con **Tailwind CSS**, micro-animaciones y estados refinados que elevan la percepción de calidad del software.
 - 🏗️ **Ingeniería Fullstack:** Domino el ciclo completo, desde la gestión de estados complejos en **Next.js/React** con Hooks personalizados, hasta el despliegue optimizado en entornos con **Docker** y **Cloudflare**.
@@ -40,9 +40,10 @@ Me especializo en convertir arquitecturas complejas en experiencias de usuario f
 ## 📈 Impacto & Desarrollo
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <!-- ⚠️ REEMPLAZA 'TU_USUARIO' con tu nombre real de GitHub abajo -->
+  <img src="https://github-readme-stats.vercel.app/api?username=WITHE24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WITHE24&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
