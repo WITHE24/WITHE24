@@ -1,27 +1,51 @@
+<!-- ====================================== -->
+<!-- 01 // SOBRE MÍ                        -->
+<!-- ====================================== -->
 
----
+## `01 // SOBRE MÍ`
 
-## Por qué esta versión se verá mejor
+<div align="center">
 
-Esta mejora funciona mejor porque:
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=700&height=60&lines=Hola%2C+soy+Andres+%7C+ENMANUEL;Frontend+Developer+%26+UI%2FUX+Designer;Construyendo+experiencias+digitales" alt="Presentación" />
 
-- **rompe la rigidez**
-- mezcla **texto + bloques visuales**
-- la sección “Sobre mí” se siente más **profesional y humana**
-- “Lo que me apasiona” parece más una **zona premium de habilidades**
-- ocupa mejor el ancho del README sin verse vacío
+<br/>
 
----
+<img src="https://img.shields.io/badge/FRONTEND-REACT%20%2B%20NEXT.JS-0284C7?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/UI%2FUX-DISE%C3%91O-7C3AED?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/ESTILO-MODERNO-0EA5E9?style=for-the-badge" />
 
-## Mi recomendación extra
+</div>
 
-Déjalo así y luego mejoramos también estas 2 secciones:
+<br/>
 
-- `04 // PROYECTO DESTACADO`
-- `06 // MI ACTIVIDAD EN GITHUB`
+<table>
+<tr>
+<td width="62%" valign="top">
 
-Porque ahí todavía podemos hacer que se vea **más épico**, sobre todo:
-- NIX360 con mejor presencia visual
-- cambiar el gráfico roto por una opción más limpia
+### 👨‍💻 Diseño productos que se sienten vivos
 
-Si quieres, en el siguiente mensaje te doy la **versión mejorada de la sección 04 y 06** con el mismo estilo para que todo el perfil quede uniforme.
+Soy **Andrés | ENMANUEL**, desarrollador especializado en **Frontend y UI/UX**.
+
+Me apasiona transformar ideas en interfaces modernas, rápidas e intuitivas, cuidando cada detalle visual para que la experiencia no solo funcione, sino que también **impacte**.
+
+Trabajo principalmente con **React, Next.js, TypeScript y Tailwind CSS**, creando aplicaciones web que combinan:
+
+- buen diseño
+- rendimiento
+- claridad visual
+- componentes reutilizables
+- experiencias fluidas
+
+> **Mi objetivo:** convertir complejidad en experiencias simples, atractivas y memorables.
+
+</td>
+<td width="38%" valign="top" align="center">
+
+### ⚡ MI ESENCIA
+
+```text
+Creatividad
++ Diseño
++ Código
++ Rendimiento
+= Experiencias reales
