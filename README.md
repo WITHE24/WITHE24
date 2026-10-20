@@ -1,7 +1,7 @@
  
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:1d4ed8,100:06b6d4&height=240&section=header&text=ANDRÉS%20%7C%20ENMANUEL&fontSize=43&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=SOFTWARE%20ARCHITECT%20%E2%80%A2%20FULLSTACK%20ENGINEER%20%E2%80%A2%20KRIONIXTECH&descAlignY=58&descSize=15" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:1d4ed8,100:06b6d4&height=240&section=header&text=ENMANUEL%20%7C%20VÁSQUEZ&fontSize=43&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=SOFTWARE%20ARCHITECT%20%E2%80%A2%20FULLSTACK%20ENGINEER%20%E2%80%A2%20KRIONIXTECH&descAlignY=58&descSize=15" width="100%" />
 
 <a href="https://github.com/WITHE24">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=1000&color=22D3EE&center=true&vCenter=true&width=720&lines=Engineering+Scalable+Digital+Ecosystems;Architecting+Real-Time+Platforms;Building+the+Future+of+ISP+Software;Turning+Complexity+into+Experience;Code+with+Heart.+Deploy+with+Brain." alt="Typing SVG" />
