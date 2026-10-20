@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,70:1D4ED8,100:06B6D4&height=230&section=header&text=ANDRES%20%7C%20ENMANUEL&fontSize=43&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=FRONTEND%20DEVELOPER%20%7C%20UI%2FUX%20%7C%20KRIONIXTECH&descSize=16&descAlignY=60" alt="Andrés - KRIONIXTECH" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,70:1D4ED8,100:06B6D4&height=230&section=header&text=ENMANUEL%20%7C%20VÁSQUEZ&fontSize=43&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=FRONTEND%20DEVELOPER%20%7C%20UI%2FUX%20%7C%20KRIONIXTECH&descSize=16&descAlignY=60" alt="Andrés - KRIONIXTECH" />
 
 <a href="https://github.com/WITHE24">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2700&pause=1200&color=22D3EE&center=true&vCenter=true&repeat=true&width=760&height=65&lines=Transformando+ideas+en+experiencias+digitales;Desarrollando+interfaces+modernas;React+%7C+Next.js+%7C+TypeScript;Diseno+con+proposito.+Codigo+con+pasion.;Bienvenido+al+universo+KRIONIXTECH" alt="Presentación animada" />
