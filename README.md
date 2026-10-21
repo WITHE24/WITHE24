@@ -1,227 +1,173 @@
-
-<!-- PERFIL GITHUB | ANDRÉS - KRIONIXTECH -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,70:1D4ED8,100:06B6D4&height=230&section=header&text=ENMANUEL%20%7C%20VÁSQUEZ&fontSize=43&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=FRONTEND%20DEVELOPER%20%7C%20UI%2FUX%20%7C%20KRIONIXTECH&descSize=16&descAlignY=60" alt="Andrés - KRIONIXTECH" />
-
-<a href="https://github.com/WITHE24">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2700&pause=1200&color=22D3EE&center=true&vCenter=true&repeat=true&width=760&height=65&lines=Transformando+ideas+en+experiencias+digitales;Desarrollando+interfaces+modernas;React+%7C+Next.js+%7C+TypeScript;Diseno+con+proposito.+Codigo+con+pasion.;Bienvenido+al+universo+KRIONIXTECH" alt="Presentación animada" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=WITHE24&label=VISITAS&color=0891b2&style=for-the-badge" />
-<img src="https://img.shields.io/badge/ESPECIALIDAD-FRONTEND-2563EB?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/PASION-UI%2FUX-7C3AED?style=for-the-badge&logo=figma&logoColor=white" />
-
-</div>
-
----
-
-## `01 // SOBRE MÍ`
-
-```typescript
-const desarrollador = {
-  nombre: "Andrés | ENMANUEL",
-  marca: "KRIONIXTECH",
-  especialidad: "Frontend Development",
-  enfoque: ["UI/UX", "Rendimiento", "Experiencia de usuario"],
-  tecnologias: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-  proyecto: "NIX360 Omnichannel",
-  filosofia: "Cada píxel importa. Cada interacción cuenta."
-};
-```
-
-Soy desarrollador especializado en **Frontend y diseño de experiencias digitales**.
-
-Me apasiona convertir ideas complejas en interfaces modernas, rápidas e intuitivas, donde cada detalle tiene un propósito.
-
-Mi objetivo es construir aplicaciones que no solo funcionen correctamente, sino que también ofrezcan una **experiencia visual excepcional**.
-
-> **El buen diseño atrae. Una buena experiencia hace la diferencia.**
-
----
-
-## `02 // MI STACK TECNOLÓGICO`
+<!-- PERFIL GITHUB | ENMANUEL VÁSQUEZ · WITHE24 -->
 
 <div align="center">
 
-### FRONTEND
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1D4ED8,100:06B6D4&height=210&section=header&text=ENMANUEL%20V%C3%81SQUEZ&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%7C%20UI%2FUX%20%7C%20KrionixTech&descSize=17&descAlignY=60" alt="Enmanuel Vásquez — Frontend Developer y UI/UX en KrionixTech" />
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite&theme=dark&perline=8" alt="Stack Frontend" />
+# Enmanuel Vásquez
 
-<br/>
+**Frontend Developer · UI/UX · Desarrollo de productos digitales**
 
-### DISEÑO Y HERRAMIENTAS
-
-<img src="https://skillicons.dev/icons?i=figma,vscode,git,github,postman&theme=dark&perline=5" alt="Herramientas" />
-
-<br/>
-
-### TECNOLOGÍAS COMPLEMENTARIAS
-
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,docker,cloudflare&theme=dark&perline=4" alt="Tecnologías complementarias" />
-
-<br/><br/>
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-</div>
-
----
-
-## `03 // LO QUE ME APASIONA`
-
-<div align="center">
-
-| ÁREA | MI ENFOQUE |
-|:---:|:---|
-| 🎨 **UI/UX** | Interfaces intuitivas y visualmente atractivas |
-| ⚛️ **React** | Componentes modernos y reutilizables |
-| 🚀 **Next.js** | Aplicaciones web rápidas y escalables |
-| 📱 **Responsive** | Experiencias adaptadas a cada pantalla |
-| ⚡ **Performance** | Optimización y fluidez de navegación |
-| 🔌 **Integraciones** | APIs y sincronización de datos |
-
-</div>
-
----
-
-## `04 // PROYECTO DESTACADO`
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1D4ED8,100:0891B2&height=110&text=NIX360%20OMNICHANNEL&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="NIX360 Omnichannel" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/PROYECTO-NIX360-0284C7?style=flat-square" />
-<img src="https://img.shields.io/badge/ENFOQUE-UI%2FUX-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/ESTADO-EN%20DESARROLLO-16A34A?style=flat-square" />
-
-</div>
-
-### Una experiencia. Múltiples canales.
-
-**NIX360** es una plataforma omnicanal enfocada en centralizar comunicaciones, agentes y operaciones desde una interfaz moderna.
-
-Mi trabajo se centra especialmente en su experiencia frontend:
-
-- Paneles administrativos modernos.
-- Bandejas de conversaciones en tiempo real.
-- Gestión visual de tickets y agentes.
-- Componentes reutilizables y escalables.
-- Optimización de grandes volúmenes de información.
-- Interfaces intuitivas para operaciones empresariales.
-
-<div align="center">
-
-`DISEÑO` → `DESARROLLO` → `OPTIMIZACIÓN` → `EXPERIENCIA`
-
-</div>
-
----
-
-## `05 // ECOSISTEMA KRIONIXTECH`
-
-<div align="center">
-
-### ⚡ KRIONIXTECH
-
-**Tecnología que conecta. Diseño que transforma.**
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=1600&color=A78BFA&center=true&vCenter=true&width=700&height=55&lines=Innovacion+en+cada+interfaz;Experiencias+digitales+sin+limites;Construyendo+el+futuro+del+software" alt="KRIONIXTECH" />
-
-</div>
-
-Bajo la identidad **KRIONIXTECH**, desarrollo soluciones digitales con especial atención al diseño frontend, la usabilidad y las necesidades reales de cada proyecto.
-
-**Áreas de interés**
-
-- Aplicaciones web empresariales.
-- Plataformas SaaS.
-- Dashboards y paneles administrativos.
-- Sistemas omnicanal.
-- Soluciones digitales para ISPs.
-- Experiencias de usuario modernas.
-
----
-
-## `06 // MI ACTIVIDAD EN GITHUB`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=WITHE24&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="Estadísticas de GitHub" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WITHE24&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Lenguajes más utilizados" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=WITHE24&theme=tokyonight&hide_border=true" alt="Racha de actividad" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=WITHE24&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Gráfico de actividad" />
-
-</div>
-
----
-
-## `07 // MI MISIÓN ACTUAL`
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&height=60&lines=Creando+interfaces+que+inspiran;Mejorando+cada+experiencia;Disenando+productos+digitales;Innovando+con+KRIONIXTECH" alt="Misión actual" />
-
-</div>
-
-```diff
-+ Diseñar interfaces modernas e intuitivas
-+ Crear experiencias web responsivas
-+ Optimizar aplicaciones React y Next.js
-+ Desarrollar componentes reutilizables
-+ Mejorar la experiencia de NIX360
-+ Explorar nuevas tendencias frontend
-```
-
-<div align="center">
-
-### MI FILOSOFÍA
-
-**Código limpio · Diseño inteligente · Experiencias reales**
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3200&pause=1700&color=A78BFA&center=true&vCenter=true&width=650&height=50&lines=Cada+pixel+importa.;Menos+complejidad.+Mas+experiencia.;El+frontend+es+mas+que+una+interfaz." alt="Filosofía" />
-
-</div>
-
----
-
-## `08 // CONECTEMOS`
-
-<div align="center">
-
-### ¿TIENES UNA IDEA? HAGÁMOSLA REALIDAD.
-
-Diseño y desarrollo experiencias digitales con atención al detalle, rendimiento y calidad visual.
+Desarrollo interfaces para **KrionixTech S.A.** y trabajo en la experiencia frontend de **NIX360**, su plataforma de comunicación omnicanal y gestión de operaciones.
 
 <br/>
 
 <a href="https://github.com/WITHE24">
-<img src="https://img.shields.io/badge/GITHUB-WITHE24-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-WITHE24-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub de Enmanuel Vásquez: WITHE24" />
+</a>
+<a href="#nix360--producto-de-krionixtech">
+  <img src="https://img.shields.io/badge/Producto-NIX360-2563EB?style=for-the-badge" alt="Conocer NIX360, producto de KrionixTech" />
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=3300&pause=1500&color=22D3EE&center=true&vCenter=true&width=720&height=60&lines=Code+with+heart.;Deploy+with+brain.;KRIONIXTECH+%7C+Frontend+Experience." alt="Lema KRIONIXTECH" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1400&color=38BDF8&center=true&vCenter=true&width=650&height=45&lines=Interfaces+claras.+Operaciones+conectadas.;React+%C2%B7+Next.js+%C2%B7+TypeScript;Desarrollo+frontend+con+criterio+de+producto." alt="Interfaces claras. Operaciones conectadas. React, Next.js y TypeScript." />
+
+</div>
+
+---
+
+## Sobre mí
+
+Soy **Enmanuel Vásquez**, desarrollador frontend conocido en GitHub como **WITHE24**. Mi trabajo combina desarrollo web, diseño de interfaces y experiencia de usuario.
+
+En **KrionixTech**, convierto necesidades de negocio en interfaces que facilitan el trabajo diario: atender conversaciones, consultar información, gestionar tareas y dar seguimiento a cada operación.
+
+Actualmente, mi enfoque principal es **NIX360**, donde trabajo en la experiencia visual, los componentes y las interfaces de la plataforma.
+
+- **Especialidad:** desarrollo frontend con React, Next.js y TypeScript.
+- **Enfoque:** claridad visual, usabilidad y rendimiento.
+- **Forma de trabajar:** componentes reutilizables, interfaces adaptables y atención al detalle.
+- **Objetivo:** que cada pantalla ayude al usuario a entender qué ocurre y qué hacer después.
+
+## NIX360 — Producto de KrionixTech
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,60:1D4ED8,100:0891B2&height=100&text=NIX360&fontSize=38&fontColor=FFFFFF" alt="NIX360 — Plataforma omnicanal desarrollada por KrionixTech S.A." />
+
+### Todos tus canales, una sola operación.
+
+**NIX360 es un producto de software desarrollado por KrionixTech S.A.**
+
+</div>
+
+**NIX360** es una plataforma de comunicación omnicanal, atención al cliente y gestión de operaciones. Su propósito es reunir conversaciones, contexto del cliente y trabajo del equipo en un mismo entorno.
+
+Está orientada a empresas de distintos tamaños y sectores que necesitan coordinar su atención, organizar responsabilidades y dar continuidad a cada interacción.
+
+### Mi participación
+
+Trabajo en el **desarrollo frontend y la experiencia de usuario de NIX360**, con especial atención a:
+
+| Área | Mi enfoque |
+| --- | --- |
+| Bandeja de conversaciones | Facilitar la lectura, navegación y atención de mensajes. |
+| Paneles de gestión | Presentar información útil con una jerarquía visual clara. |
+| Tickets y agentes | Hacer comprensibles los estados, responsables y tareas pendientes. |
+| Componentes de interfaz | Mantener consistencia visual y reutilizar soluciones entre pantallas. |
+| Diseño adaptable | Ajustar la experiencia a distintos tamaños de pantalla. |
+| Rendimiento | Mejorar la fluidez al consultar y gestionar información. |
+
+**La meta:** que el equipo pueda comprender cada situación y actuar con menos fricción.
+
+---
+
+## KrionixTech
+
+**KrionixTech S.A.** desarrolla soluciones de software para comunicación, gestión y operaciones de negocio. **NIX360 forma parte de sus productos.**
+
+Mi aporte dentro de este entorno se centra en el frontend: conectar la funcionalidad de cada sistema con una experiencia clara para las personas que lo utilizan.
+
+### Áreas en las que trabajo
+
+- Aplicaciones web empresariales y plataformas SaaS.
+- Interfaces para atención al cliente y comunicación omnicanal.
+- Dashboards y herramientas de gestión.
+- Integración de interfaces con APIs.
+- Experiencias digitales para empresas de servicios e ISPs.
+
+---
+
+## Tecnologías y herramientas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite&theme=dark&perline=8" alt="React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS y Vite" />
+
+</div>
 
 <br/>
 
-**KRIONIXTECH — Construyendo experiencias, no solo interfaces.**
+| Categoría | Tecnologías |
+| --- | --- |
+| **Frontend** | React · Next.js · TypeScript · JavaScript |
+| **Interfaces y estilos** | HTML · CSS · Tailwind CSS |
+| **Diseño** | Figma · UI/UX · Diseño responsive |
+| **Desarrollo** | Git · GitHub · VS Code · Vite · Postman |
+| **Tecnologías complementarias** | Node.js · NestJS · Docker · Cloudflare |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:1D4ED8,100:06B6D4&height=120&section=footer" width="100%" alt="Pie de página" />
+---
+
+## Cómo construyo interfaces
+
+### Claridad antes de complejidad
+
+Organizo contenido, acciones y estados para que el usuario pueda orientarse sin tener que descubrir cómo funciona cada pantalla.
+
+### Consistencia entre pantallas
+
+Trabajo con componentes reutilizables y patrones visuales comunes para facilitar tanto el uso del producto como su mantenimiento.
+
+### Atención a la interacción completa
+
+El diseño también incluye lo que ocurre mientras se carga información, cuando no hay resultados, cuando una acción termina o cuando algo falla.
+
+### Rendimiento como parte de la experiencia
+
+Busco que navegar, consultar datos e interactuar con la aplicación se sienta ágil, especialmente en herramientas de uso diario.
+
+---
+
+## En qué estoy trabajando
+
+- Evolucionar la experiencia frontend de **NIX360**.
+- Consolidar componentes y patrones de interfaz.
+- Mejorar la navegación y la jerarquía de información.
+- Optimizar interfaces desarrolladas con React y Next.js.
+- Fortalecer la experiencia en distintos dispositivos.
+
+---
+
+## Actividad en GitHub
+
+Parte de mi trabajo se desarrolla en repositorios privados; los proyectos públicos de este perfil no representan la totalidad de mi actividad.
+
+<details>
+<summary><strong>Ver estadísticas públicas</strong></summary>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=WITHE24&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Estadísticas públicas de WITHE24 en GitHub" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WITHE24&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Lenguajes de los repositorios públicos de WITHE24" />
+
+</div>
+
+</details>
+
+---
+
+## Conectemos
+
+Si quieres conversar sobre **desarrollo frontend, diseño de interfaces o productos digitales**, puedes encontrarme en [GitHub como @WITHE24](https://github.com/WITHE24).
+
+**Enmanuel Vásquez · KrionixTech · NIX360**
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1D4ED8,100:06B6D4&height=100&section=footer" alt="" />
 
 </div>
